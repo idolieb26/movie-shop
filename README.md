@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<img align="left" alt="supabase" src="https://raw.githubusercontent.com/idolieb26/movie-shop/develop/img/landing.png" height ="100px"/></a>
+
 ## Getting Started
 
 First, run the development server:
