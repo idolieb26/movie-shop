@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <img align="left" alt="supabase" src="https://raw.githubusercontent.com/idolieb26/movie-shop/develop/img/landing.png" width="300px" height ="340px"/>
 <br />
+<br />
 
 ## Getting Started
 
